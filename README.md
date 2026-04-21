@@ -13,7 +13,7 @@ My goal is to become a skilled professional in:
 
  Machine Learning
  Deep Learning
- Python Development🔐 Cybersecurity
+ Python Development, Cybersecurity
 
 I am continuously learning and improving my skills to prepare for future industry opportunities and internships.
 
@@ -26,11 +26,11 @@ Git & GitHub
 C++ Fundamentals
 Basic Data Handling
 **Projects**
- Rock Paper Scissor AI
+ 1.Rock Paper Scissor AI
 
 A simple Python project based on game logic and basic AI decision-making.
 
- Cats and Dogs Classifier
+2. Cats and Dogs Classifier
 
 A beginner Machine Learning project that classifies images of cats and dogs using a trained model.
 
